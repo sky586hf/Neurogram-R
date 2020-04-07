@@ -14,9 +14,15 @@ GitHub: Neurogram-R
 */
 
 const accounts = [
-    ["隔壁西站", "https://example.com/auth/login", "example@v2bz.com", "password"],
-    ["DlerCloud", "https://example.com/auth/login", "example@dlercloud.com", "password"],
-    ["CCCAT", "https://example.com/user/login.php", "example@cccat.com", "password"]
+    ["CCCAT", "https://cccat.io/user/login.php", "491775070@qq.com", "00OO00O0"],
+    ["诸神网络加速", "https://so.cvson.com/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["520酸酸乳", "https://www.520ssr.ml/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["9012年的加速器", "http://xinxin.men/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["星域", "https://xingxingcloud.net/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["NovaLive", "https://关于gfw娘是个小碧池这件事.我有一句mmp要讲.com/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["Speeder", "https://ss.freefly.space/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["MeCloud", "http://www.mecloud.live/auth/login", "491775070@qq.com", "00OO00O0"],
+    ["科技熊", "https://kejibear.ml/auth/login", "491775070@qq.com", "00OO00O0"]
 ]
 
 const autoLogout = false
